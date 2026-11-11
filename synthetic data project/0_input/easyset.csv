@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Gender,City,PurchaseAmount
+1,John Smith,34,Male,New York,123.45
+2,Jane Doe,28,Female,Los Angeles,543.21
+3,Sam Wilson,41,Male,Chicago,98.76
+4,Mary Brown,25,Female,Houston,204.56
+5,Chris Taylor,32,Male,Phoenix,300.00
+6,Patricia Johnson,29,Female,San Diego,150.00
+7,Michael Green,45,Male,Dallas,75.89
+8,Linda White,38,Female,San Francisco,400.12
+9,Robert Black,27,Male,Seattle,220.34
+10,Susan Lee,31,Female,Miami,190.76
